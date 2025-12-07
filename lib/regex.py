@@ -1,5 +1,5 @@
 import re
 
-my_pattern = r""
-my_regex = re.compile(my_pattern)
+pattern = r".*\bday\b.*"
+my_regex = re.compile(pattern)
 
